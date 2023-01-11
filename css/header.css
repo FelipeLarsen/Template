@@ -31,4 +31,14 @@
 
 .header-container a:hover {
   background-color: #000;
+  border: 1px solid #ffffff;
+}
+
+.header-container .signUp {
+  background-color: #ff0000;
+}
+
+.header-container .signUp:hover {
+  border: none;
+  background-color: rgba(255, 0, 0, 0.8);
 }
